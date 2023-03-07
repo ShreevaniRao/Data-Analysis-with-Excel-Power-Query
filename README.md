@@ -17,6 +17,6 @@
 
 	1.2 - Power Query used to show the ETL - Extract Transform & Load details of an Employee dataset from ETL.xlsx in Power Query folder. The power of Power Query to record the steps to repeat the ETL process for any changes to the dataset with just refreshing the connection.
 
-	1.3 - Power Query used to show the consolidation of different CSV files that can be combined into a dataset (/Power Query/CSV Folder).
+	1.3 - Power Query used to show the consolidation of different excel files that can be combined into a dataset (/Power Query/CSV Folder).
 
 	1.4 - Power Query used to depict the appending different dataset from a Excel worksheet(/Power Query/Student & Courses) and ultimately merge with a dataset(Course details of Students & Courses) using a common column to update the origial appended dataset.
