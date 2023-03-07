@@ -15,8 +15,8 @@
 
 	1.1 - Power Query - Web Scrape tab details USA Stated and its Population details scraped from Wikipedia website and uploaded to Power Query to clean and format the scraped data to create a Pivot table and a quick interactive Visualization to depict the cleaned data to  guage the changes in the population changes over the 3 decades in the Pivot - US States Population tab.
 
-	1.2 - Power Query used to show the ETL - Extract Transform & Load details of an Employee dataset. The power of Power Query to record the steps to repeat the ETL process for any changes to the dataset with just refreshing the connection.
+	1.2 - Power Query used to show the ETL - Extract Transform & Load details of an Employee dataset from ETL.xlsx. The power of Power Query to record the steps to repeat the ETL process for any changes to the dataset with just refreshing the connection.
 
-	1.3 - Power Query used to show the consolidation of different CSV files that can be combined into a dataset.
+	1.3 - Power Query used to show the consolidation of different CSV files that can be combined into a dataset (under CSV Folder).
 
-	1.4 - Power Query used to depict the appending different dataset from a Excel worksheet and ultimately merge with a dataset using a common column to update the origial appended dataset.
+	1.4 - Power Query used to depict the appending different dataset from a Excel worksheet(Student & Courses) and ultimately merge with a dataset(Course details of Students & Courses) using a common column to update the origial appended dataset.
