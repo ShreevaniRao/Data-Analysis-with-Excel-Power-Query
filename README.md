@@ -19,4 +19,4 @@
 
 	2.3 - Power Query used to show the consolidation of different excel files that can be combined into a dataset (/Power Query/CSV Folder).
 
-	2.4 - Power Query used to depict the appending different dataset from a Excel worksheet(/Power Query/Student & Courses) and ultimately merge with a dataset(Course details of Students & Courses) using a common column to update the origial appended dataset.
+	2.4 - Power Query used to depict the Merge & Appending different dataset from a Excel worksheet(/Power Query/Student & Courses) and ultimately merge with a dataset(Course details of Students & Courses) using a common column to update the origial appended dataset.
