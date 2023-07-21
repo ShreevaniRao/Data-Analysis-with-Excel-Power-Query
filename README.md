@@ -4,7 +4,8 @@
 	1.1 - The Data Analysis Report tab details this Excel Analysis project with screenshots of all the below steps.
 	
 	1.2 - The Original Data tab shows the details of the Excel file - Bike-Buyers.xlsx(/Excel folder). 
- 	      This tab has details of the possible issues with data that needs to be Cleaned & Formatted to work with it.
+ 	      This tab has details of the possible issues with data that needs to be 
+	      Cleaned & Formatted to work with it.
 	
 	1.3 - The Cleaned & Formatted Data tab has the cleaned and formatted data that is easy to work with.
 	
