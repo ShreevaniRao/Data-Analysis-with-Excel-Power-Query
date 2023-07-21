@@ -20,7 +20,7 @@
 	      over the 3 decades in the Pivot - US States Population tab.
 
 	2.2 - Power Query used to show the ETL - Extract Transform & Load details of an Employee dataset from ETL.xlsx 
-              in Power Query folder. 
+	      in Power Query folder. 
  	      The power of Power Query to record the steps to repeat the ETL process for any changes to the dataset 
 	      with just refreshing the connection.
 
