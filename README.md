@@ -1,5 +1,5 @@
 # Data-Analysis-with-Excel & Power-Query
-#### 1. Excel Project Dataset.xlsx contains the details of the Exploratory Data Analysis of a small subset of thedetails of the Purchasers of Bikes. This Excel files has multiple tabs to show the complete details of the Analysis - Loading the data , Cleaning & Formatting the data, Creating Pivot Tables and Visualizing the data in a Dashboard. Please check the below details -
+#### 1. Excel Project Dataset.xlsx contains the details of the Exploratory Data Analysis of a small subset of the details of the Purchasers of Bikes. This Excel files has multiple tabs to show the complete details of the Analysis - Loading the data , Cleaning & Formatting the data, Creating Pivot Tables and Visualizing the data in a Dashboard. Please check the below details -
 
 	1.1 - The Data Analysis Report tab details this Excel Analysis project with screenshots of all the below steps.
 	
