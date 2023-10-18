@@ -34,5 +34,5 @@
 
 
 <picture>
-<img src="https://github.com/ShreevaniRao/Case-Studies/blob/main/Waze_image.png" width="400" height="100">
+<img src="https://github.com/ShreevaniRao/Data-Analysis-with-Excel-Power-Query/blob/main/Bike%20Purchasers%20Dashboard.png" width="800" height="800">
 </picture>
