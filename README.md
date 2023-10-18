@@ -1,4 +1,4 @@
-# Data-Analysis-with-Excel & Power-Query
+# [&#x200B;](#) Data-Analysis-with-Excel & Power-Query
 #### [&#x200B;](####) 1. [Excel Project Dataset.xlsx](https://github.com/ShreevaniRao/Data-Analysis-with-Excel-Power-Query/blob/main/Excel%20Project%20Dataset.xlsx) contains the details of the Exploratory Data Analysis of a small subset of the details of the Purchasers of Bikes. This Excel files has multiple tabs to show the complete details of the Analysis - Loading the data , Cleaning & Formatting the data, Creating Pivot Tables and Visualizing the data in a Dashboard. Please check the below details -
 
 	1.1 - The Data Analysis Report tab details this Excel Analysis project with screenshots of all the below steps.
@@ -31,3 +31,8 @@
 	2.4 - Power Query used to depict the Merge & Appending different dataset from a Excel worksheet
  	      (/Power Query/Student & Courses) and ultimately merge with a dataset(Course details of Students & Courses)
               using a common column to update the origial appended dataset.
+
+
+<picture>
+<img src="https://github.com/ShreevaniRao/Case-Studies/blob/main/Waze_image.png" width="400" height="100">
+</picture>
