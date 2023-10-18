@@ -1,5 +1,5 @@
 # Data-Analysis-with-Excel & Power-Query
-<h3 markdown="1"> 1. [Excel Project Dataset.xlsx](https://github.com/ShreevaniRao/Data-Analysis-with-Excel-Power-Query/blob/main/Excel%20Project%20Dataset.xlsx) contains the details of the Exploratory Data Analysis of a small subset of the details of the Purchasers of Bikes. This Excel files has multiple tabs to show the complete details of the Analysis - Loading the data , Cleaning & Formatting the data, Creating Pivot Tables and Visualizing the data in a Dashboard. Please check the below details -</h3>
+#### [&#x200B;](####) 1. [Excel Project Dataset.xlsx](https://github.com/ShreevaniRao/Data-Analysis-with-Excel-Power-Query/blob/main/Excel%20Project%20Dataset.xlsx) contains the details of the Exploratory Data Analysis of a small subset of the details of the Purchasers of Bikes. This Excel files has multiple tabs to show the complete details of the Analysis - Loading the data , Cleaning & Formatting the data, Creating Pivot Tables and Visualizing the data in a Dashboard. Please check the below details -
 
 	1.1 - The Data Analysis Report tab details this Excel Analysis project with screenshots of all the below steps.
 	
@@ -13,7 +13,7 @@
 
 	1.5 - The Dashboard tab has the Visualization details using multiple Excel charts to quick analyse the insights.
 
-#### 2. PowerQuery.xlsx file contains the multiple tabs which shows the Power Query in action to perform the below steps with details
+#### [&#x200B;](####) 2. [PowerQuery.xlsx](https://github.com/ShreevaniRao/Data-Analysis-with-Excel-Power-Query/blob/main/PowerQuery.xlsx) file contains the multiple tabs which shows the Power Query in action to perform the below steps with details
 
 	2.1 - Power Query - Web Scrape tab details USA Stated and its Population details scraped from Wikipedia website 
  	      and uploaded to Power Query to clean and format the scraped data to create a Pivot table and 
