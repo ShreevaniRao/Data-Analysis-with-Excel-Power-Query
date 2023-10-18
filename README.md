@@ -9,7 +9,7 @@
 	
 	1.3 - The Cleaned & Formatted Data tab has the cleaned and formatted data that is easy to work with.
 	
-	1.4 - The Pivot Tables tab has the details of the Pivot tables used to analysis based on few set columns.
+	1.4 - The Pivot Tables tab has the details of the Pivot tables used to analyse based on few set columns.
 
 	1.5 - The Dashboard tab has the Visualization details using multiple Excel charts to quick analyse the insights.
 
