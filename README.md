@@ -15,7 +15,7 @@
 
 #### [&#x200B;](####) 2. [PowerQuery.xlsx](https://github.com/ShreevaniRao/Data-Analysis-with-Excel-Power-Query/blob/main/PowerQuery.xlsx) file contains the multiple tabs which shows the Power Query in action to perform the below steps with details
 
-	2.1 - Power Query - Web Scrape tab details USA Stated and its Population details scraped from Wikipedia website 
+	2.1 - Power Query - Web Scrape tab details USA States and its Population details scraped from Wikipedia website 
  	      and uploaded to Power Query to clean and format the scraped data to create a Pivot table and 
  	      a quick interactive Visualization to depict the cleaned data to  gauge the changes in the population changes
 	      over the 3 decades in the Pivot - US States Population tab.
